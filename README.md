@@ -1,2 +1,4 @@
 # Adult-Income
-EDA for adult income from census bureau data in 1994.
+CS 329E project
+EDA for adult income from the Census Bureau data in 1994.
+San Tran, Saahiti Chadalavada
